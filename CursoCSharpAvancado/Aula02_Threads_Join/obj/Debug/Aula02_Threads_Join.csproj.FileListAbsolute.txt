@@ -1,0 +1,7 @@
+D:\LabDev\CursoCSharpAvancado\CursoCSharpAvancado\Aula02_Threads_Join\bin\Debug\Aula02_Threads_Join.exe.config
+D:\LabDev\CursoCSharpAvancado\CursoCSharpAvancado\Aula02_Threads_Join\bin\Debug\Aula02_Threads_Join.exe
+D:\LabDev\CursoCSharpAvancado\CursoCSharpAvancado\Aula02_Threads_Join\bin\Debug\Aula02_Threads_Join.pdb
+D:\LabDev\CursoCSharpAvancado\CursoCSharpAvancado\Aula02_Threads_Join\obj\Debug\Aula02_Threads_Join.csproj.CoreCompileInputs.cache
+D:\LabDev\CursoCSharpAvancado\CursoCSharpAvancado\Aula02_Threads_Join\obj\Debug\Aula02_Threads_Join.exe
+D:\LabDev\CursoCSharpAvancado\CursoCSharpAvancado\Aula02_Threads_Join\obj\Debug\Aula02_Threads_Join.pdb
+D:\LabDev\CursoCSharpAvancado\CursoCSharpAvancado\Aula02_Threads_Join\obj\Debug\Aula02_Threads_Join.csprojAssemblyReference.cache
