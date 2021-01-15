@@ -1,0 +1,7 @@
+D:\LabDev\CursoCSharpAvancado\CursoCSharpAvancado\1_Introducao_Threads\bin\Debug\1_Introducao_Threads.exe.config
+D:\LabDev\CursoCSharpAvancado\CursoCSharpAvancado\1_Introducao_Threads\bin\Debug\1_Introducao_Threads.exe
+D:\LabDev\CursoCSharpAvancado\CursoCSharpAvancado\1_Introducao_Threads\bin\Debug\1_Introducao_Threads.pdb
+D:\LabDev\CursoCSharpAvancado\CursoCSharpAvancado\1_Introducao_Threads\obj\Debug\1_Introducao_Threads.csprojAssemblyReference.cache
+D:\LabDev\CursoCSharpAvancado\CursoCSharpAvancado\1_Introducao_Threads\obj\Debug\1_Introducao_Threads.csproj.CoreCompileInputs.cache
+D:\LabDev\CursoCSharpAvancado\CursoCSharpAvancado\1_Introducao_Threads\obj\Debug\1_Introducao_Threads.exe
+D:\LabDev\CursoCSharpAvancado\CursoCSharpAvancado\1_Introducao_Threads\obj\Debug\1_Introducao_Threads.pdb
